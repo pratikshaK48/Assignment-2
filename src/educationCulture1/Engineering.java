@@ -1,6 +1,6 @@
 package educationCulture1;
 
-public class Engineering {
+public class Engineering extends Graduation {
 	void streams() {
 		System.out.println( " Engineering branches are Computer Science, Information Technology, Electronics, Electrical, Mechanical ");	
 	}
