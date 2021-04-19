@@ -1,6 +1,6 @@
 package educationCulture1;
 
-public class ComputerScienceEngineering {
+public class ComputerScienceEngineering extends Engineering {
 	void hscPercentage() {
 		System.out.println(" To get admission for Computer Science Engineering HSC percentage should be minimum 65%. ");
 	}
